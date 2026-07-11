@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829322558865",
+    "project_id": "alu-ventureconnect",
+    "storage_bucket": "alu-ventureconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829322558865:android:ff2ea8554adcefa906ae30",
+        "android_client_info": {
+          "package_name": "com.alu.ventureconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYYBlUs4_ghiI9DfFDzLiReJEXQOl7lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
